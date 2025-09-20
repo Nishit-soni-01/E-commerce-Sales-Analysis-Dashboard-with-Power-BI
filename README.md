@@ -1,6 +1,6 @@
 # E-commerce-Sales-Analysis-Dashboard
 
-### Dashboard Link: [Insert Your Power BI Report Link Here]
+### Dashboard Link: https://app.powerbi.com/Redirect?action=OpenReport&appId=e81aecda-c46c-48d4-927e-a09b3bdfc65b&reportObjectId=c7e3d424-f22e-4a7c-9c4c-fa9555fe1ef4&ctid=3ad87f0e-1f93-41bd-94f4-82c37d971c88&reportPage=79fa2a2a2000ddbc59eb&pbi_source=appShareLink&portalSessionId=b9553b75-43ce-48e9-acec-06112e68f3b5
 
 ## Problem Statement
 
